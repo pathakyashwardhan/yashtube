@@ -4,7 +4,7 @@ import { app } from "./app.js"
 
 
 dotenv.config({
-    path: './.env'
+    path: 'C:\Users\yashwardhan\Desktop\yashtube\.env'
 })
 
 connectDB()
