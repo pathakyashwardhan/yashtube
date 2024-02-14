@@ -1,1 +1,2 @@
-awesome backend by yashwardhan
+backend by yashwardhan
+created under guidance of @hitesh coudhary sir
